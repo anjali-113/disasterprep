@@ -2,6 +2,8 @@
 This is an attempt at using machine learning and capabilities of AI(Artificial Learning) at predicting disasters before they occur. Even though Natural disasters have a lot of factors impacting them and at a really large scale , they are often unpredictable but a short term notice before they occur can be given to the public under the effect so as to save lives wth the help of machine learning model and time series analysis.Machine learning models can recognise patterns that often humans are uncapable of and can process a large amount of data at a time.
 
  # This is DisasterPrep : A predicting and Analysis Tool for Flood, Rainfall and Medical Emergencies
+ 
+![Screenshot (98)](https://github.com/anjali-113/disasterprep/assets/127101288/f9fc0d3a-56a0-46f0-b696-d5fca1ffb96f)
 
  # Flood Prediction
   this is done using LD(for past analysis) and FbProphet(for time series analysis) and thus predicting for several rivers on the basis of their runoff values if the low lying areas can face flood or not 
